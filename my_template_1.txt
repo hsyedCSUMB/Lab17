@@ -1,0 +1,7 @@
+<h1>Sample heading!</h1>
+<p>Sample paragraph!</p>
+<div class="text-center">
+
+<img src="image.png" class="rounded w-50">
+
+</div>
